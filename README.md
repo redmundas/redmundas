@@ -1,6 +1,6 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edmundas-ramanauskas)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/redmundas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/redmundas)
 [![X](https://img.shields.io/twitter/follow/redmundas?label=@redmundas)](https://x.com/redmundas)
 
 ### 💻 Tech Stack:
